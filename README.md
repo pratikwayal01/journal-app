@@ -1,7 +1,7 @@
 # My Journal mobile App
 
 My Journal is a simple web application that allows users to keep track of their daily entries. Users can add new entries for each day, view entries for a specific date, and delete entries as needed.
-(Note:this is an experiment app converted from a webpage using:(https://www.webintoapp.com)[https://www.webintoapp.com].
+(Note:this is an experiment app converted from a webpage using:- https://www.webintoapp.com)
 ## Features
 
 - Add new entries with date and content.
